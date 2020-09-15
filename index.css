@@ -1,0 +1,10 @@
+h1{
+  font-size: 16px;
+  font-weight: normal;
+  color: violet;
+}
+
+p{
+  font-size: 14px;
+  border: violet 2px solid;
+}
